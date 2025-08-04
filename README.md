@@ -1,6 +1,6 @@
-# 👋 Hey, moi c’est Melknut
+# 👋 Hey, moi c’est Miadana
 
-> Développeur 🧠 | Bidouilleur 🛠️ | Étudiant @42 🚀
+> Étudiant @42 🚀
 
 Bienvenue sur mon GitHub. Ici, tu trouveras du code, des idées en chantier, des projets terminés (ou presque), et quelques hacks nés entre 2h et 4h du matin.  
 
@@ -29,6 +29,6 @@ Bienvenue sur mon GitHub. Ici, tu trouveras du code, des idées en chantier, des
 ## 🛠️ Tech préférées
 
 ```txt
-Langages :       C, Bash, Python (si vraiment faut), Assembly (en enfer)
+Langages :       C, Bash
 Outils :         Make, Valgrind, GDB, Git, Vim (team no IDE)
 Philosophie :    "Si tu ne comprends pas pourquoi ça marche, c’est que ça va péter."

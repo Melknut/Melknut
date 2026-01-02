@@ -9,7 +9,7 @@
 <p align="center">
   <!-- Badges personnalisés -->
   <img src="https://img.shields.io/badge/École-42-blue?style=for-the-badge&logo=42&logoColor=white" alt="42 badge"/>
-  <img src="https://img.shields.io/badge/C-Language-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Badge" />
+  <img src="https://img.shields.io/badge/C++-Language-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Badge" />
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Badge" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge" />
   <img src="https://img.shields.io/badge/Makefile-DD0031?style=for-the-badge" alt="Makefile Badge" />

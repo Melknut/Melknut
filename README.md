@@ -19,21 +19,9 @@ Ici, tu ne trouveras pas des clones de projets copiés-collés, mais du **code b
 
 ---
 
-## 🔧 Projets notables
-
-| Projet         | Description courte                           |
-|----------------|-----------------------------------------------|
-| `push_swap`    | Algo de tri optimisé avec le moins d’opérations |
-| `philosophers` | Threads, forks et gestion de la mort en live |
-| `minishell`    | Un shell custom avec parsing, redirection, heredoc |
-| `pipex`        | Manipulation fine des pipes et exec |
-| `libft`        | Lib standard en C, maison et normée |
-
----
-
 ## 🛠️ Stack & outils
 
 ```txt
-Langages :     C, Bash, Python (si besoin)
+Langages :     C, CPP, Python
 Outils :       Make, Valgrind, GDB, Vim, Git
 Concepts :     Processus, mémoire, threads, parsing, UNIX syscalls

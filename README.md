@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding gif" />
 </p>
 
-![My Skills](https://skillicons.dev/icons?i=lua,bash,vim,neovim,c,cpp,python,git,github,linux)
+![My Skills](https://skillicons.dev/icons?i=windows,bash,vim,c,cpp,python,git,github,linux)
 
 ---
 

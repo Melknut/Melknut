@@ -22,6 +22,6 @@ Ici, tu ne trouveras pas des clones de projets copiés-collés, mais du **code b
 ## 🛠️ Stack & outils
 
 ```txt
-Langages :     C, CPP, Python
+Langages :     C++/C, Python
 Outils :       Make, Valgrind, GDB, Vim, Git
 Concepts :     Processus, mémoire, threads, parsing, UNIX syscalls

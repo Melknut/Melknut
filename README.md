@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=435&lines=Salut%2C+moi+c'est+arasoloa!;Étudiant+chez+42+%F0%9F%9A%80;Fan+de+C%2C+Bash+et+low-level+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://github.com/Melknut/Melknut/blob/main/github-header-banner.png" />
 </h1>
 
 <p align="center">

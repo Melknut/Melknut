@@ -25,3 +25,8 @@ Ici, tu ne trouveras pas des clones de projets copiés-collés, mais du **code b
 Langages :     C++/C, Python
 Outils :       Make, Valgrind, GDB, Vim, Git
 Concepts :     Processus, mémoire, threads, parsing, UNIX syscalls
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Melknut&theme=radical&hide_border=true&border_radius=10&background=0D1117&stroke=2ec4e6&ring=2ec4e6&fire=ff6e40&currStreakLabel=2ec4e6&sideLabels=2ec4e6" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melknut&theme=radical&hide_border=true&border_radius=10&background=0D1117&layout=compact" width="48%" />
+</p>
